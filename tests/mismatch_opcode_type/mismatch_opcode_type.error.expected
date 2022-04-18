@@ -1,0 +1,6 @@
+0: 'r3' is illegal as operand number 1 for lea
+1: error with '#r3': Incorrect immediate value - not a number
+2: '#1' is illegal as operand number 2 for lea
+3: '#0' is illegal as operand number 1 for clr
+4: 'r3' is illegal as operand number 1 for jmp
+Bad input file - not outputting

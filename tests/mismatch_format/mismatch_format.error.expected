@@ -1,0 +1,4 @@
+0: Incorrect line
+1: missing string
+2: unknown instruction 'LABEL'
+Bad input file - not outputting

@@ -1,0 +1,6 @@
+0: unknown instruction 'stoppp'
+1: unknown instruction 'STOP'
+2: unknown instruction 'ADD'
+3: unknown instruction 'data'
+4: unknown instruction 'CLR'
+Bad input file - not outputting

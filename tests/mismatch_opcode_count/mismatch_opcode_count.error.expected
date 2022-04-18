@@ -1,0 +1,6 @@
+0: extra operands for instruction 'stop'
+1: extra operands for instruction 'add'
+2: missing operands for instruction 'sub'
+3: extra operands for instruction 'prn'
+4: missing operands for instruction 'jsr'
+Bad input file - not outputting
